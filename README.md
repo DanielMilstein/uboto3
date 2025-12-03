@@ -1,6 +1,6 @@
 # uboto3
 
-`uboto3` is a MicroPython library designed to facilitate uploading files directly from a MicroPython-enabled device (like an ESP32 or ESP8266) to Amazon Web Services (AWS) S3 or to a S#-compatible provider. It implements the necessary AWS Signature Version 4 for an S3 PUT Object request. This allows you to store data, sensor readings, images, or any other files from your microcontroller projects in the cloud.
+`uboto3` is a MicroPython library designed to facilitate uploading files directly from a MicroPython-enabled device (like an ESP32 or ESP8266) to Amazon Web Services (AWS) S3 or to a S3-compatible provider. It implements the necessary AWS Signature Version 4 for an S3 PUT Object request. This allows you to store data, sensor readings, images, or any other files from your microcontroller projects in the cloud.
 
 ## Features
 
